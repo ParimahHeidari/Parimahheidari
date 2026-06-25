@@ -1,4 +1,4 @@
-## Hi, I'm ParimahHeidari
+## Hi, I'm Parima Heidari
 computer science student at Azad UNI </br>
 I creat themed desktop apps to stay consistent </br>
 
